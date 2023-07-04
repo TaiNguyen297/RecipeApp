@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/acme</item>
+        <item>@font/alata</item>
+        <item>@font/allerta</item>
+        <item>@font/arbutus</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/lobster</item>
+    </array>
+</resources>
